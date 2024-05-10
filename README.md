@@ -1,4 +1,6 @@
-# evgenii_uppgift_webcam
+YOLO är en datorseendemodell som snabbt detekterar och lokaliserar objekt i bilder och videor genom ett enda neuralt nätverk, vilket delar upp bilden i ett rutnät och förutsäger objektens positioner och klasser direkt.
+YOLO modulen är väldigt användbar i samhället på grund av dens realtids igenkänning. YOLO modulen är användbar i bland annat videoövervakning och skapande samt programmerande av självkörande bilar.
+
 Evgeniis uppgift där python coden ska känna igen object genom en webcam. Till exempel en telefon, bok och person
 Den här uppgiften är till långt sätt ganska likadan som den vi fick av Evgenii på första året. 
 Jag följde instruktioner på websidan https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993 som Anton hade delat med mig.
